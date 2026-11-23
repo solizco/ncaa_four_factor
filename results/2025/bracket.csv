@@ -1,0 +1,68 @@
+Round,RoundName,Slot,TeamA,TeamB,Winner
+0,First Four,W16,American Univ,Mt St Mary's,American Univ
+0,First Four,X11,Texas,Xavier,Texas
+0,First Four,Y11,North Carolina,San Diego St,North Carolina
+0,First Four,Y16,Alabama St,St Francis PA,Alabama St
+1,Round of 64,R1W1,Duke,American Univ,Duke
+1,Round of 64,R1W2,Alabama,Robert Morris,Alabama
+1,Round of 64,R1W3,Wisconsin,Montana,Wisconsin
+1,Round of 64,R1W4,Arizona,Akron,Arizona
+1,Round of 64,R1W5,Oregon,Liberty,Liberty
+1,Round of 64,R1W6,BYU,VCU,BYU
+1,Round of 64,R1W7,St Mary's CA,Vanderbilt,St Mary's CA
+1,Round of 64,R1W8,Mississippi St,Baylor,Mississippi St
+1,Round of 64,R1X1,Houston,SIUE,Houston
+1,Round of 64,R1X2,Tennessee,Wofford,Tennessee
+1,Round of 64,R1X3,Kentucky,Troy,Kentucky
+1,Round of 64,R1X4,Purdue,High Point,High Point
+1,Round of 64,R1X5,Clemson,McNeese St,McNeese St
+1,Round of 64,R1X6,Illinois,Texas,Illinois
+1,Round of 64,R1X7,UCLA,Utah St,Utah St
+1,Round of 64,R1X8,Gonzaga,Georgia,Gonzaga
+1,Round of 64,R1Y1,Auburn,Alabama St,Auburn
+1,Round of 64,R1Y2,Michigan St,Bryant,Michigan St
+1,Round of 64,R1Y3,Iowa St,Lipscomb,Iowa St
+1,Round of 64,R1Y4,Texas A&M,Yale,Yale
+1,Round of 64,R1Y5,Michigan,UC San Diego,UC San Diego
+1,Round of 64,R1Y6,Mississippi,North Carolina,North Carolina
+1,Round of 64,R1Y7,Marquette,New Mexico,Marquette
+1,Round of 64,R1Y8,Louisville,Creighton,Louisville
+1,Round of 64,R1Z1,Florida,Norfolk St,Florida
+1,Round of 64,R1Z2,St John's,NE Omaha,NE Omaha
+1,Round of 64,R1Z3,Texas Tech,UNC Wilmington,Texas Tech
+1,Round of 64,R1Z4,Maryland,Grand Canyon,Maryland
+1,Round of 64,R1Z5,Memphis,Colorado St,Memphis
+1,Round of 64,R1Z6,Missouri,Drake,Missouri
+1,Round of 64,R1Z7,Kansas,Arkansas,Kansas
+1,Round of 64,R1Z8,Connecticut,Oklahoma,Connecticut
+2,Round of 32,R2W1,Duke,Mississippi St,Duke
+2,Round of 32,R2W2,Alabama,St Mary's CA,Alabama
+2,Round of 32,R2W3,Wisconsin,BYU,BYU
+2,Round of 32,R2W4,Arizona,Liberty,Arizona
+2,Round of 32,R2X1,Houston,Gonzaga,Gonzaga
+2,Round of 32,R2X2,Tennessee,Utah St,Utah St
+2,Round of 32,R2X3,Kentucky,Illinois,Kentucky
+2,Round of 32,R2X4,High Point,McNeese St,High Point
+2,Round of 32,R2Y1,Auburn,Louisville,Auburn
+2,Round of 32,R2Y2,Michigan St,Marquette,Michigan St
+2,Round of 32,R2Y3,Iowa St,North Carolina,Iowa St
+2,Round of 32,R2Y4,Yale,UC San Diego,Yale
+2,Round of 32,R2Z1,Florida,Connecticut,Florida
+2,Round of 32,R2Z2,NE Omaha,Kansas,NE Omaha
+2,Round of 32,R2Z3,Texas Tech,Missouri,Missouri
+2,Round of 32,R2Z4,Maryland,Memphis,Maryland
+3,Sweet 16,R3W1,Duke,Arizona,Duke
+3,Sweet 16,R3W2,Alabama,BYU,Alabama
+3,Sweet 16,R3X1,Gonzaga,High Point,High Point
+3,Sweet 16,R3X2,Utah St,Kentucky,Utah St
+3,Sweet 16,R3Y1,Auburn,Yale,Auburn
+3,Sweet 16,R3Y2,Michigan St,Iowa St,Iowa St
+3,Sweet 16,R3Z1,Florida,Maryland,Florida
+3,Sweet 16,R3Z2,NE Omaha,Missouri,Missouri
+4,Elite 8,R4W1,Duke,Alabama,Duke
+4,Elite 8,R4X1,High Point,Utah St,High Point
+4,Elite 8,R4Y1,Auburn,Iowa St,Auburn
+4,Elite 8,R4Z1,Florida,Missouri,Missouri
+5,Final Four,R5WX,Duke,High Point,Duke
+5,Final Four,R5YZ,Auburn,Missouri,Missouri
+6,Championship,R6CH,Duke,Missouri,Duke
